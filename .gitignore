@@ -1,0 +1,8 @@
+# Ignorar archivos generados automáticamente
+.vs/
+bin/
+obj/
+
+# Ignorar archivos específicos por extensión
+*.log
+*.exe
